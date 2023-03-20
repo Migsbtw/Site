@@ -1,5 +1,4 @@
-# Site
-README
+# README
 Introdução
 Este é um simples site que permite exibir um texto inicial e, ao clicar em um botão, mostrar um texto adicional.
 
