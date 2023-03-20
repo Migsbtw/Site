@@ -1,8 +1,8 @@
 # README
-#Introdução
+# Introdução
 Este é um simples site que permite exibir um texto inicial e, ao clicar em um botão, mostrar um texto adicional.
 
-#Como usar
+# Como usar
 Clone este repositório em sua máquina local.
 
 Abra o arquivo index.html em um navegador da web.
