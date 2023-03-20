@@ -13,4 +13,4 @@ Este é um simples site que permite exibir um texto inicial e, ao clicar em um b
 
 # Pré-requisitos
 Um navegador da web compatível com HTML5, como Google Chrome, Mozilla Firefox, Apple Safari ou Microsoft Edge.
-Licença
+
